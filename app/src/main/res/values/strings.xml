@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DecodeRing</string>
+    <string name="input_label">Shift</string>
+    <string name="button_label">Get Cipher</string>
+    <string name="plaintext">Plaintext</string>
+    <string name="ciphertext">Ciphertext</string>
+</resources>
